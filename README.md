@@ -1,2 +1,2 @@
-# my-first-project
-This is my first project on Github
+#Dog e-commerce 
+click on dog e-commerce.html to view my project
